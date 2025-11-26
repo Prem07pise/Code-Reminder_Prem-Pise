@@ -79,9 +79,8 @@ Adjust the exact command to your project's entry point (e.g., src/index.js, main
   - pytest
 
 ## License & Authors
-- License: Add your license (MIT/Apache-2.0/etc.)
 - Author: Prem Pise
-- Contact: add an email or link to your profile
+- Contact: piseprem7@gmail.com
 
 ## Next steps (to complete README)
 - Replace placeholders (<repository-url>, entry points) with real values.
